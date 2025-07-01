@@ -1,2 +1,2 @@
 # sprint-board
-SprintBoardis a multitenant sprint planning and task management platform built with Django—designed to support agile teams across organizations with isolated workspaces, collaborative boards, and streamlined planning workflows.
+A multi-tenant Django SaaS app inspired by Jira, designed for agile teams. Manage projects, tasks, and blogs with isolated workspaces using PostgreSQL schemas.
